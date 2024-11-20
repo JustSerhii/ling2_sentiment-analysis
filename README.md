@@ -43,7 +43,6 @@
 Q. T. Nguyen, T. L. Nguyen, N. H. Luong and Q. H. Ngo,  
 "Tutorials on Sentiment Analysis using Pre-trained Language Models: Fine-tuning BERT,"  
 2020 7th NAFOSTED Conference on Information and Computer Science (NICS), Ho Chi Minh City, Vietnam, 2020, pp. 302-307,  
-DOI: [10.1109/NICS51282.2020.9335899](https://doi.org/10.1109/NICS51282.2020.9335899).
 
 **Keywords:** Deep learning, Computer science, Sentiment analysis, Analytical models, Bit error rate, Neural networks, Task analysis, BERT, Pre-trained language model.
 
